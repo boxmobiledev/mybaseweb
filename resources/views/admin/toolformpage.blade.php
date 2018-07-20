@@ -6,7 +6,7 @@
                 </div>
                 <div class="col-md-7 align-self-center">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item">Create</li>
+                        <li class="breadcrumb-item">Create 1234</li>
                         <li class="breadcrumb-item"><a href="{{url('toollist')}}">List</a></li>
                     </ol>
                 </div>
